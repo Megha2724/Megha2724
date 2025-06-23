@@ -42,8 +42,8 @@ I’m passionate about backend development and always eager to learn new technol
 
 ## 📫 Reach Me
 
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [Your LinkedIn URL here]
+- **Email:** [meghashree2427@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/meghashrees2724/]
 - **Portfolio:** [Your Portfolio URL here]
 
 ---
